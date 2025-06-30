@@ -5,7 +5,7 @@
 ### Data engineer in the making, with previous experiences in sustainability, finance and digital marketing.
 
 - 🎯 Currently transitioning into Data Engineering, with hands-on experience in data projects serving impactful initiatives.
-- 🔎 **Looking for a 18-month apprenticeship starting September 2025**, where I can contribute to meaningful and technical projects — ideally in impact startups, sustainable finance, energy, or public service sectors.
+- 🔎 **Looking for a 18-month apprenticeship starting September 2025**, where I can contribute to meaningful and technical projects.
 
 Curious, detail-oriented, and solution-driven, I’m open to opportunities and meaningful conversations!
 
