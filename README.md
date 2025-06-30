@@ -12,7 +12,7 @@
 - 🎯 Currently transitioning into Data Engineering, with hands-on experience in data projects serving impactful initiatives.
 - 🔎 I’m looking for a 18-month apprenticeship starting September 2025, where I can contribute to meaningful and technical projects — ideally in impact startups, sustainable finance, energy, or public service sectors.
 
-💬 Curious, detail-oriented, and solution-driven, I’m open to opportunities and meaningful conversations!
+Curious, detail-oriented, and solution-driven, I’m open to opportunities and meaningful conversations!
 
 
 ## 🛠️ Languages and Tools
