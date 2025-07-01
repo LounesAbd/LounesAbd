@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&center=true&vCenter=true&width=500&height=70&color=52d000&duration=4000&lines=Hi+There!+👋;+I'm+Lounès+Abdou!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&center=true&vCenter=true&width=500&height=70&color=52d000&duration=4000&lines=Hi+There!+👋;+I+am+Lounès+Abdou!;" />
 </h1>
 
 ### Data engineer in the making, with previous experiences in sustainability, finance and digital marketing.
