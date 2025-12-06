@@ -5,7 +5,6 @@
 ### Data engineer in the making, with previous experiences in sustainability, finance and digital marketing.
 
 - 🎯 Currently transitioning into Data Engineering, with hands-on experience in data projects serving impactful initiatives.
-- 🔎 **Looking for a 18-month apprenticeship starting September 2025**, where I can contribute to meaningful and technical projects.
 
 Curious, detail-oriented, and solution-driven, I’m open to opportunities and meaningful conversations!
 
@@ -22,7 +21,6 @@ Curious, detail-oriented, and solution-driven, I’m open to opportunities and m
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB Badge">
   <img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=for-the-badge" alt="Metabase Badge">
   <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=for-the-badge" alt="dbt Badge">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge" alt="Apache Spark Badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
